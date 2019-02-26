@@ -366,7 +366,7 @@ Add the following into the file:
 10. Note: the Options -Indexes lines ensure that listings for these directories in the browser is disabled.
 11. To enable the virtual host
 
-        85.sudo a2ensite nuevoMexico
+        85.sudo a2ensite catalog
 12. The following prompt will be returned:
 
 		Enabling site catalog
